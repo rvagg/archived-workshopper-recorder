@@ -1,0 +1,16 @@
+{
+  "name": "workshopper-recorder",
+  "version": "0.0.1",
+  "description": "A exercise solution recorder component for the Workshopper framework",
+  "main": "./recorder.js",
+  "author": "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rvagg/workshopper-recorder.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "~0.3.5",
+    "after": "~0.8.1"
+  }
+}
